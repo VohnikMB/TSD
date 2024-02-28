@@ -1,0 +1,69 @@
+<animals>
+    <name>
+        <value>Max</value>
+        <value>Bella</value>
+        <value>Charlie</value>
+        <value>Luna</value>
+        <value>Oscar</value>
+        <value>Milo</value>
+        <value>Sophie</value>
+        <value>Cooper</value>
+        <value>Buddy</value>
+        <value>Lucy</value>
+        <value>Сніжок</value>
+        <value>Сніжинка</value>
+        <value>Рижик</value>
+        <value>Блек</value>
+        <value>Голді</value>
+        <value>Фокс</value>
+        <value>Бланка</value>
+        <value>Брауні</value>
+        <value>Білка</value>
+        <value>Муха</value>
+        <value>Норка</value>
+        <value>Барон</value>
+        <value>Буря</value>
+        <value>Гроза</value>
+        <value>Герцог</value>
+        <value>Вульф</value>
+        <value>Луї</value>
+        <value>Цезар</value>
+        <value>Рекс</value>
+        <value>Артур</value>
+        <value>Кінг</value>
+        <value>Ель</value>
+        <value>Розі</value>
+        <value>Фіджі</value>
+        <value>Лайк</value>
+        <value>Чарльз</value>
+        <value>Арчі</value>
+        <value>Клео</value>
+        <value>Персик</value>
+        <value>Расті</value>
+    </name>
+
+    <status>
+        <value>Доступний для адопції</value>
+        <value>Архівований</value>
+        <value>На лікуванні</value>
+        <value>На утриманні</value>
+        <value>У нових господарів</value>
+    </status>
+
+    <species>
+        <value>Собака</value>
+        <value>Кіт</value>
+        <value>Хомяк</value>
+        <value>Папуга</value>
+        <value>Морська свинка</value>
+        <value>Лис</value>
+        <value>Піщанка</value>
+        <value>Ящірка</value>
+        <value>Черепаха</value>
+        <value>Змія</value>
+        <value>Фуро</value>
+        <value>Єнот</value>
+        <value>Капібара</value>
+    </species>
+
+</animals>
